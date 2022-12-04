@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 
     printf("Hello world!\n"
@@ -10,5 +10,6 @@ int main()
            "\n"
            "\n"
            "Created by me(Who cares?)");
+    //wqeqdasdsfdsd
     return 0;
 }
